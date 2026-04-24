@@ -55,11 +55,6 @@ git clone https://github.com/siddhi123/kitchenly.git
 
 ---
 
-## 📸 Screenshots
-
-
-
----
 
 ## ⚠️ Disclaimer
 
